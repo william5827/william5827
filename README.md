@@ -1,8 +1,8 @@
 ### Olá, meu nome é William Da Silva 👋
 
-- 🌱 Atualmente estudando JavaScript/NodeJs ...
+- 🌱 Atualmente estudando JavaScript/NodeJs
 <!-- 💬 Ask me about ...-->
-- 📫 Análise e Desenvolvimento de Sistemas(ADS) na SPtech Digital School ...-->
+- 📫 Análise e Desenvolvimento de Sistemas(ADS) na SPtech Digital School 
 
 <div align="center">
   <a href="https://github.com/william5827">
