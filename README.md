@@ -5,6 +5,7 @@
 - 🏀 Entusiasta de esportes
 - 🎧 Apaixonado por música
 - ✏️ Atualmente estudando JavaScript/NodeJs
+- ✉️ William.matos@sptech.school
 
 <div align="center">
   <a href="https://github.com/william5827">
