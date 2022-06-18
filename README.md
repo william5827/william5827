@@ -1,8 +1,10 @@
-### Olá, meu nome é William Da Silva 👋
+### Olá, meu nome é William 👋
 
-- 🌱 Técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, atualmente cursando Análise e Desenvolvimento de sistemas(ADS) na SPTECH Digital School.
+- 💻 Técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, atualmente cursando Análise e Desenvolvimento de sistemas(ADS) na SPTECH Digital School.
 <!-- 💬 Ask me about ...-->
-- 📫 Atualmente estudando JavaScript/NodeJs
+- 🏀 Entusiasta de esportes
+- 🎧 Apaixonado por música
+- ✏️ Atualmente estudando JavaScript/NodeJs
 
 <div align="center">
   <a href="https://github.com/william5827">
