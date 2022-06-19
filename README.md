@@ -26,5 +26,5 @@
  ## Contato
   
   <div>
-    <a href="linkedin.com/in/william-da-silva-matos-25a8b0242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="linkedin.com/in/william-da-silva-matos-25a8b0242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">https://www.linkedin.com/in/william-da-silva-matos-25a8b0242/</a> 
   </div>
