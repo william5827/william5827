@@ -1,11 +1,11 @@
 ### Olá, meu nome é William 👋
 
-- 💻 Técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, atualmente cursando Análise e Desenvolvimento de sistemas(ADS) na SPTECH Digital School.
+- ✏️ Técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, atualmente cursando Análise e Desenvolvimento de sistemas(ADS) na SPTECH Digital School.
 <!-- 💬 Ask me about ...-->
 - 🏀 Entusiasta de esportes
 - 🎧 Apaixonado por música
-- ✏️ Atualmente estudando JavaScript/NodeJs
 - ✉️ William.matos@sptech.school
+- 💻 Suporte na empresa Stefanini Brasil
 
 <div align="center">
   <a href="https://github.com/william5827">
