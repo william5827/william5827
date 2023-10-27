@@ -5,7 +5,6 @@
 - 🏀 Entusiasta de esportes
 - 🎧 Apaixonado por música
 - ✉️ William.matos@sptech.school
-- 💻 Suporte na empresa Stefanini Brasil
 
 <div align="center">
   <a href="https://github.com/william5827">
